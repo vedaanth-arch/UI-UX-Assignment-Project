@@ -25,17 +25,18 @@ Design a single web screen with the following components:
 
 ## 📸 Preview
  
-> [Optional] You can also preview the design live via this Figma link:  
+>  You can also preview the design live via this Figma link:  
 > https://www.figma.com/design/cCW044vxlO33sv8tdfb6ts/assignment?node-id=0-1&t=TZDo1ppu62FHSW1U-1
 > ![Screenshot 2025-07-06 223823](https://github.com/user-attachments/assets/321872cc-0ee4-4944-892f-cbc0885072db)
-> **Prototype link**:https://www.figma.com/proto/cCW044vxlO33sv8tdfb6ts/assignment?page-id=0%3A1&node-id=1-2&p=f&viewport=22%2C22%2C0.66&t=a3ArKpbhYBzbdfQa-1&scaling=contain&content-scaling=fixed
+> **Prototype link**
+(:https://www.figma.com/proto/cCW044vxlO33sv8tdfb6ts/assignment?page-id=0%3A1&node-id=1-2&p=f&viewport=22%2C22%2C0.66&t=a3ArKpbhYBzbdfQa-1&scaling=contain&content-scaling=fixed)
 > ![image](https://github.com/user-attachments/assets/099bbf50-49bc-4c4b-8483-9b8d46ba6dd7)
 
 
 
 ## 📬 Contact
 
-- **Email:** vedaanthsingh.xb32@gmail.com *(placeholder for design purposes)*
+- **Email:** vedaanthsingh.xb32@gmail.com 
 - **LinkedIn:** https://www.linkedin.com/in/m-vedaanth-singh-17a836287/
 
 ---
